@@ -4,7 +4,7 @@
 [![badge](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
 ## Description
 Search books on Google and save them to your account to reference later!
-[Website-Link](https://cdubs-tech-blog.herokuapp.com/)
+[Website-Link](https://cdubs-book-search.herokuapp.com/)
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -22,7 +22,7 @@ Search books on Google and save them to your account to reference later!
 ## Contributing
 👪 Chris Winters
 ## Demo
-✏️ Link to deployed site: [Book-Search](https://cdubs-tech-blog.herokuapp.com/)
+✏️ Link to deployed site: [Book-Search](https://cdubs-book-search.herokuapp.com/)
 The website looks this:
 ![booksearch](./assets/img/booksearch.png)
 ## Questions
