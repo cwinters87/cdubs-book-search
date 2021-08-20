@@ -24,7 +24,7 @@ Search books on Google and save them to your account to reference later!
 ## Demo
 ✏️ Link to deployed site: [Book-Search](https://cdubs-tech-blog.herokuapp.com/)
 The website looks this:
-![booksearch](./assets/img/blog.png)
+![booksearch](./assets/img/booksearch.png)
 ## Questions
 🙋‍♂️ Email or reach me on my GitHub <br />
 <br />
